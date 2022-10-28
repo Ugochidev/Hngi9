@@ -28,7 +28,7 @@ export default class App {
     this.app.get("/", async (request: Request, response: Response) => {
       response.json({
         status: true,
-        message: "Welcome To PhastPay",
+        message: "Welcome To Hngi9",
       });
     });
   }
